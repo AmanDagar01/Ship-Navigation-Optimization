@@ -35,7 +35,6 @@ A sophisticated ship navigation system that optimizes maritime routes by conside
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmanDagar01/Ship-Navigation-Optimization.git
-   cd SIH
    ```
 
 2. Install dependencies:
