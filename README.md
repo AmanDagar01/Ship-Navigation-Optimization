@@ -34,7 +34,7 @@ A sophisticated ship navigation system that optimizes maritime routes by conside
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/AmanDagar01/Ship-Navigation-Optimization.git
    cd SIH
    ```
 
@@ -90,15 +90,3 @@ The system uses a combination of:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- [Vishal Srinivasan]
-
-## 🙏 Acknowledgments
-
-- Special thanks to the open-source community for various tools and libraries used in this project
