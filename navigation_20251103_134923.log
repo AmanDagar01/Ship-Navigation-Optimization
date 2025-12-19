@@ -1,0 +1,22 @@
+2025-11-03 13:49:33,144 - ShipNavigation - INFO - Loading assets...
+2025-11-03 13:49:33,290 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 13:49:33,311 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 13:49:47,334 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:49:47,365 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:49:47,365 - ShipNavigation - INFO - Starting A* from (69, 107) to (99, 119)
+2025-11-03 13:49:47,366 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 13:49:47,367 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 13:50:05,839 - ShipNavigation - INFO - Points reset
+2025-11-03 13:50:41,556 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:50:41,589 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 13:50:41,590 - ShipNavigation - ERROR - Start: Coordinates outside India map bounds
+2025-11-03 13:50:42,163 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:50:42,199 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 13:50:42,200 - ShipNavigation - ERROR - Start: Coordinates outside India map bounds
+2025-11-03 13:50:42,379 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:50:42,404 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 13:50:42,404 - ShipNavigation - ERROR - Start: Coordinates outside India map bounds
+2025-11-03 13:50:58,197 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:50:58,231 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 13:50:58,233 - ShipNavigation - ERROR - Start: Coordinates outside India map bounds
+2025-11-03 13:51:06,750 - ShipNavigation - INFO - Application closing

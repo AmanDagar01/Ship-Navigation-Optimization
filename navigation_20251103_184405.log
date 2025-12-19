@@ -1,0 +1,26 @@
+2025-11-03 18:44:16,150 - ShipNavigation - INFO - Loading assets...
+2025-11-03 18:44:16,327 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 18:44:16,335 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 18:44:35,313 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 18:44:35,579 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 18:45:12,006 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:45:12,049 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 18:45:12,049 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.0000°N)
+2025-11-03 18:45:12,052 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 118)
+2025-11-03 18:45:12,053 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 18:45:12,053 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 118)
+2025-11-03 18:45:12,054 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: False
+2025-11-03 18:45:12,054 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 18:45:34,338 - ShipNavigation - INFO - Success! Path has 62 waypoints
+2025-11-03 18:45:52,615 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:45:52,654 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 18:45:52,654 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.0000°N)
+2025-11-03 18:45:52,655 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 118)
+2025-11-03 18:45:52,655 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 18:45:52,655 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 118)
+2025-11-03 18:45:52,655 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:45:52,656 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-03 18:46:18,279 - ShipNavigation - INFO - Success! Path has 62 waypoints
+2025-11-03 18:46:36,890 - ShipNavigation - INFO - Points reset
+2025-11-03 18:46:36,890 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 18:46:37,789 - ShipNavigation - INFO - Application closing

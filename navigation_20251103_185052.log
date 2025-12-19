@@ -1,0 +1,31 @@
+2025-11-03 18:51:02,287 - ShipNavigation - INFO - Loading assets...
+2025-11-03 18:51:02,420 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 18:51:02,425 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 18:51:42,362 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:51:42,391 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:51:42,391 - ShipNavigation - INFO - Starting A* from (4, 89) to (80, 129)
+2025-11-03 18:51:42,392 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:51:42,392 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-03 18:52:16,012 - ShipNavigation - INFO - Points reset
+2025-11-03 18:52:31,895 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:52:31,930 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:52:31,931 - ShipNavigation - INFO - Starting A* from (6, 89) to (12, 114)
+2025-11-03 18:52:31,931 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:52:31,932 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-03 18:52:45,418 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:52:45,460 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:52:45,461 - ShipNavigation - INFO - Starting A* from (6, 89) to (12, 114)
+2025-11-03 18:52:45,461 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:52:45,462 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 18:52:55,443 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:52:55,480 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:52:55,481 - ShipNavigation - INFO - Starting A* from (6, 89) to (12, 114)
+2025-11-03 18:52:55,481 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:52:55,481 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-03 18:53:07,783 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:53:07,823 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:53:07,825 - ShipNavigation - INFO - Starting A* from (6, 89) to (12, 114)
+2025-11-03 18:53:07,826 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:53:07,826 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 18:53:13,830 - ShipNavigation - INFO - Points reset
+2025-11-03 18:53:39,416 - ShipNavigation - INFO - Application closing

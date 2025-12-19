@@ -1,0 +1,46 @@
+2025-11-03 13:10:58,167 - ShipNavigation - INFO - Loading assets...
+2025-11-03 13:10:58,578 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 13:10:58,603 - ShipNavigation - INFO - Application started
+2025-11-03 13:11:11,239 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:11:11,267 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:11:11,268 - ShipNavigation - INFO - Starting A* from (63, 106) to (41, 131)
+2025-11-03 13:11:11,269 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 13:11:11,269 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 13:11:35,555 - ShipNavigation - INFO - Selection reset
+2025-11-03 13:11:47,890 - ShipNavigation - INFO - Points reset
+2025-11-03 13:11:49,891 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 13:11:51,241 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 13:11:52,256 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 13:11:57,890 - ShipNavigation - ERROR - Invalid end point - select ocean area
+2025-11-03 13:12:03,932 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:12:03,969 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:12:03,969 - ShipNavigation - INFO - Starting A* from (6, 87) to (126, 141)
+2025-11-03 13:12:03,970 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 13:12:03,970 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 13:12:49,471 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:12:49,535 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:12:49,536 - ShipNavigation - INFO - Starting A* from (6, 87) to (126, 141)
+2025-11-03 13:12:49,538 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 13:12:49,543 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 13:13:03,491 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:13:03,525 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:13:03,526 - ShipNavigation - INFO - Starting A* from (6, 87) to (126, 141)
+2025-11-03 13:13:03,527 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 13:13:03,527 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 13:13:22,921 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:13:22,950 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:13:22,951 - ShipNavigation - INFO - Starting A* from (6, 87) to (126, 141)
+2025-11-03 13:13:22,951 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 13:13:22,952 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 13:14:03,245 - ShipNavigation - INFO - Points reset
+2025-11-03 13:14:08,252 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:14:08,279 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:14:08,280 - ShipNavigation - INFO - Starting A* from (81, 90) to (65, 104)
+2025-11-03 13:14:08,280 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 13:14:08,280 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 13:14:21,739 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:14:21,770 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:14:21,770 - ShipNavigation - INFO - Starting A* from (81, 90) to (65, 104)
+2025-11-03 13:14:21,772 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 13:14:21,772 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 13:14:33,401 - ShipNavigation - INFO - Application closing

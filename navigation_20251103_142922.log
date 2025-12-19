@@ -1,0 +1,43 @@
+2025-11-03 14:29:31,712 - ShipNavigation - INFO - Loading assets...
+2025-11-03 14:29:31,878 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 14:29:31,885 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 14:29:59,753 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 14:29:59,793 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 14:29:59,794 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.0000°N)
+2025-11-03 14:29:59,795 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 118)
+2025-11-03 14:29:59,795 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 14:29:59,798 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 118)
+2025-11-03 14:29:59,798 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 14:29:59,798 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 14:30:20,343 - ShipNavigation - INFO - Success! Path has 62 waypoints
+2025-11-03 14:30:30,618 - ShipNavigation - INFO - Points reset
+2025-11-03 14:30:32,215 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 14:30:33,501 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 14:30:34,951 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 14:30:36,334 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 14:30:45,147 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 14:30:45,171 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 14:30:45,172 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.0000°N)
+2025-11-03 14:30:45,173 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 118)
+2025-11-03 14:30:45,173 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 14:30:45,174 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 118)
+2025-11-03 14:30:45,174 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 14:30:45,175 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 14:30:51,049 - ShipNavigation - INFO - Success! Path has 62 waypoints
+2025-11-03 14:30:54,738 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 14:30:54,777 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 14:30:54,778 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.0000°N)
+2025-11-03 14:30:54,778 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 118)
+2025-11-03 14:30:54,779 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 14:30:54,779 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 118)
+2025-11-03 14:30:54,779 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 14:30:54,780 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-03 14:31:19,839 - ShipNavigation - INFO - Success! Path has 62 waypoints
+2025-11-03 14:31:22,135 - ShipNavigation - INFO - Points reset
+2025-11-03 14:31:38,660 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 14:31:38,687 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 14:31:38,689 - ShipNavigation - INFO - Starting A* from (69, 103) to (97, 127)
+2025-11-03 14:31:38,689 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 14:31:38,690 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-03 14:31:54,168 - ShipNavigation - INFO - Points reset
+2025-11-03 14:31:55,169 - ShipNavigation - INFO - Application closing

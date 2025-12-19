@@ -1,0 +1,71 @@
+2025-11-04 09:21:32,434 - ShipNavigation - INFO - Loading assets...
+2025-11-04 09:21:32,571 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-04 09:21:32,582 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-04 09:23:56,747 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:23:56,784 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-04 09:23:56,786 - ShipNavigation - INFO - Starting A* from (30, 109) to (68, 114)
+2025-11-04 09:23:56,786 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-04 09:23:56,787 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-04 09:24:27,852 - ShipNavigation - INFO - Points reset
+2025-11-04 09:25:33,512 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:25:34,398 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:25:38,858 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:25:39,918 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:25:52,060 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:25:52,096 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-04 09:25:52,097 - ShipNavigation - INFO - Parsed coordinates: Start(73.0500°E, 13.3700°N) End(88.5200°E, 19.8100°N)
+2025-11-04 09:25:52,097 - ShipNavigation - INFO - Grid coordinates: Start (34, 112), End (89, 84)
+2025-11-04 09:25:52,098 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-04 09:25:52,098 - ShipNavigation - INFO - Starting A* from (34, 112) to (89, 84)
+2025-11-04 09:25:52,098 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:25:52,099 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-04 09:26:02,807 - ShipNavigation - INFO - Success! Path has 94 waypoints
+2025-11-04 09:26:35,602 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:26:35,652 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-04 09:26:35,653 - ShipNavigation - INFO - Parsed coordinates: Start(73.0500°E, 13.3700°N) End(88.5200°E, 19.8100°N)
+2025-11-04 09:26:35,653 - ShipNavigation - INFO - Grid coordinates: Start (34, 112), End (89, 84)
+2025-11-04 09:26:35,654 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-04 09:26:35,654 - ShipNavigation - INFO - Starting A* from (34, 112) to (89, 84)
+2025-11-04 09:26:35,655 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:26:35,655 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-04 09:27:19,149 - ShipNavigation - INFO - Success! Path has 86 waypoints
+2025-11-04 09:27:46,551 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:27:46,589 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-04 09:27:46,590 - ShipNavigation - INFO - Parsed coordinates: Start(73.0500°E, 13.3700°N) End(88.5200°E, 19.8100°N)
+2025-11-04 09:27:46,590 - ShipNavigation - INFO - Grid coordinates: Start (34, 112), End (89, 84)
+2025-11-04 09:27:46,591 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-04 09:27:46,591 - ShipNavigation - INFO - Starting A* from (34, 112) to (89, 84)
+2025-11-04 09:27:46,592 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:27:46,592 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-04 09:27:56,755 - ShipNavigation - INFO - Success! Path has 94 waypoints
+2025-11-04 09:28:00,999 - ShipNavigation - INFO - Points reset
+2025-11-04 09:28:01,000 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:28:21,340 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:28:22,835 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:28:27,451 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:28:27,494 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-04 09:28:27,494 - ShipNavigation - INFO - Starting A* from (82, 116) to (119, 108)
+2025-11-04 09:28:27,495 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:28:27,495 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-04 09:28:33,519 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:28:33,552 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-04 09:28:33,554 - ShipNavigation - INFO - Starting A* from (82, 116) to (119, 108)
+2025-11-04 09:28:33,554 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:28:33,554 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-04 09:29:05,845 - ShipNavigation - INFO - Points reset
+2025-11-04 09:29:10,563 - ShipNavigation - INFO - Points reset
+2025-11-04 09:29:15,088 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:29:15,115 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-04 09:29:15,116 - ShipNavigation - INFO - Starting A* from (98, 131) to (66, 139)
+2025-11-04 09:29:15,116 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:29:15,116 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-04 09:29:25,444 - ShipNavigation - INFO - Points reset
+2025-11-04 09:29:33,834 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-04 09:29:33,863 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-04 09:29:33,863 - ShipNavigation - INFO - Starting A* from (26, 102) to (78, 131)
+2025-11-04 09:29:33,864 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-04 09:29:33,865 - ShipNavigation - INFO - Optimizations - Fuel: True, Speed: False, Comfort: False
+2025-11-04 09:30:10,014 - ShipNavigation - INFO - Points reset
+2025-11-04 09:30:10,767 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-04 09:30:14,051 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-04 09:30:27,314 - ShipNavigation - INFO - Application closing

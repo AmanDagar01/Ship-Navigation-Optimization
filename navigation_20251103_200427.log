@@ -1,0 +1,12 @@
+2025-11-03 20:04:34,667 - ShipNavigation - INFO - Loading assets...
+2025-11-03 20:04:34,765 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 20:04:34,771 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 20:04:45,364 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 20:04:45,388 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 20:04:45,388 - ShipNavigation - INFO - Starting A* from (63, 106) to (104, 112)
+2025-11-03 20:04:45,388 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 20:04:45,388 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 20:04:57,285 - ShipNavigation - INFO - Points reset
+2025-11-03 20:04:58,970 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 20:05:00,080 - ShipNavigation - ERROR - Invalid start point - select ocean area
+2025-11-03 20:05:07,557 - ShipNavigation - INFO - Application closing

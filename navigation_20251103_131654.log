@@ -1,0 +1,11 @@
+2025-11-03 13:17:04,603 - ShipNavigation - INFO - Loading assets...
+2025-11-03 13:17:04,741 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 13:17:04,746 - ShipNavigation - INFO - Application started
+2025-11-03 13:17:14,896 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 13:17:14,927 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 13:17:14,928 - ShipNavigation - INFO - Starting A* from (83, 87) to (42, 134)
+2025-11-03 13:17:14,929 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 13:17:14,929 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 13:17:39,697 - ShipNavigation - INFO - Points reset
+2025-11-03 13:17:46,375 - ShipNavigation - INFO - Points reset
+2025-11-03 13:18:19,240 - ShipNavigation - INFO - Application closing

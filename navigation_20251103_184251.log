@@ -1,0 +1,14 @@
+2025-11-03 18:42:58,554 - ShipNavigation - INFO - Loading assets...
+2025-11-03 18:42:58,655 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 18:42:58,661 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 18:43:07,506 - ShipNavigation - INFO - Points reset
+2025-11-03 18:43:44,117 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:43:44,149 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 18:43:44,151 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.0000°N)
+2025-11-03 18:43:44,151 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 118)
+2025-11-03 18:43:44,152 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 18:43:44,152 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 118)
+2025-11-03 18:43:44,153 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: False
+2025-11-03 18:43:44,153 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: False
+2025-11-03 18:43:51,715 - ShipNavigation - INFO - Success! Path has 62 waypoints
+2025-11-03 18:43:51,794 - ShipNavigation - INFO - Application closing

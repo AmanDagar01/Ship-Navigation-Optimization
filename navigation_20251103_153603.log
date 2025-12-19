@@ -1,0 +1,23 @@
+2025-11-03 15:36:12,442 - ShipNavigation - INFO - Loading assets...
+2025-11-03 15:36:12,591 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 15:36:12,602 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 15:36:20,406 - ShipNavigation - INFO - Points reset
+2025-11-03 15:36:54,142 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:36:54,340 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:37:07,521 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:37:13,081 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:37:17,381 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:37:22,995 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 15:37:23,028 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 15:37:23,028 - ShipNavigation - INFO - Parsed coordinates: Start(72.0000°E, 15.0000°N) End(85.0000°E, 12.3000°N)
+2025-11-03 15:37:23,029 - ShipNavigation - INFO - Grid coordinates: Start (30, 105), End (77, 117)
+2025-11-03 15:37:23,029 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 15:37:23,030 - ShipNavigation - INFO - Starting A* from (30, 105) to (77, 117)
+2025-11-03 15:37:23,030 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 15:37:23,030 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 15:37:44,075 - ShipNavigation - INFO - Success! Path has 63 waypoints
+2025-11-03 15:37:45,317 - ShipNavigation - INFO - Points reset
+2025-11-03 15:37:45,318 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:37:48,262 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 15:37:56,347 - ShipNavigation - INFO - Points reset
+2025-11-03 15:38:05,024 - ShipNavigation - INFO - Application closing

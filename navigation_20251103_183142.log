@@ -1,0 +1,16 @@
+2025-11-03 18:31:49,852 - ShipNavigation - INFO - Loading assets...
+2025-11-03 18:31:49,948 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 18:31:49,952 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 18:32:02,629 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:32:02,649 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:32:02,649 - ShipNavigation - INFO - Starting A* from (72, 100) to (103, 140)
+2025-11-03 18:32:02,650 - ShipNavigation - INFO - Profile - Cargo: True, Passenger: False
+2025-11-03 18:32:02,650 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: True, Comfort: False
+2025-11-03 18:32:28,531 - ShipNavigation - INFO - Points reset
+2025-11-03 18:32:41,106 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 18:32:41,122 - ShipNavigation - INFO - Using CLICK input mode
+2025-11-03 18:32:41,122 - ShipNavigation - INFO - Starting A* from (78, 98) to (51, 136)
+2025-11-03 18:32:41,122 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 18:32:41,122 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 18:32:54,021 - ShipNavigation - INFO - Exported route to KML: route_export.kml
+2025-11-03 18:33:00,560 - ShipNavigation - INFO - Application closing

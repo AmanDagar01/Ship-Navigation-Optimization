@@ -1,0 +1,80 @@
+2025-11-03 23:48:14,419 - ShipNavigation - INFO - Loading assets...
+2025-11-03 23:48:14,552 - ShipNavigation - INFO - Pre-rendering grid...
+2025-11-03 23:48:14,561 - ShipNavigation - INFO - Application started with enhanced features
+2025-11-03 23:48:51,286 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:48:51,731 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:48:53,824 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:04,776 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:06,567 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:17,330 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 23:49:17,364 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 23:49:17,365 - ShipNavigation - INFO - Parsed coordinates: Start(16.0000°E, 83.9400°N) End(12.5900°E, 81.5000°N)
+2025-11-03 23:49:17,365 - ShipNavigation - ERROR - Start: Possible swap? Lat/Lon seem reversed. Try Lon: 83.94, Lat: 16.00
+2025-11-03 23:49:23,186 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 23:49:23,218 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 23:49:23,220 - ShipNavigation - INFO - Parsed coordinates: Start(16.0000°E, 83.9400°N) End(12.5900°E, 81.5000°N)
+2025-11-03 23:49:23,220 - ShipNavigation - ERROR - Start: Possible swap? Lat/Lon seem reversed. Try Lon: 83.94, Lat: 16.00
+2025-11-03 23:49:25,899 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 23:49:25,938 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 23:49:25,938 - ShipNavigation - INFO - Parsed coordinates: Start(16.0000°E, 83.9400°N) End(12.5900°E, 81.5000°N)
+2025-11-03 23:49:25,939 - ShipNavigation - ERROR - Start: Possible swap? Lat/Lon seem reversed. Try Lon: 83.94, Lat: 16.00
+2025-11-03 23:49:28,859 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:30,139 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:31,992 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:33,098 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:33,523 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:36,609 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:36,786 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:37,142 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:38,252 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:39,451 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:49,872 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:50,234 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:59,700 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:49:59,890 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:01,343 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:01,897 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:05,780 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 23:50:05,810 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 23:50:05,810 - ShipNavigation - INFO - Parsed coordinates: Start(83.9400°E, 16.0000°N) End(81.5000°E, 12.5900°N)
+2025-11-03 23:50:05,811 - ShipNavigation - INFO - Grid coordinates: Start (73, 101), End (64, 115)
+2025-11-03 23:50:05,811 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 23:50:05,811 - ShipNavigation - INFO - Starting A* from (73, 101) to (64, 115)
+2025-11-03 23:50:05,812 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 23:50:05,814 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 23:50:10,725 - ShipNavigation - INFO - Success! Path has 15 waypoints
+2025-11-03 23:50:23,517 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:23,708 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:24,023 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:25,988 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:26,934 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:27,072 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:27,211 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:28,133 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:32,801 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:34,047 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:34,587 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:37,776 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:38,217 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:57,464 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:57,831 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:50:59,753 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:00,622 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:05,739 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:06,351 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:08,342 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:08,524 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:08,888 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:35,789 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:51:40,617 - ShipNavigation - INFO - Start button clicked - caches cleared
+2025-11-03 23:51:40,669 - ShipNavigation - INFO - Using MANUAL input mode
+2025-11-03 23:51:40,670 - ShipNavigation - INFO - Parsed coordinates: Start(87.7700°E, 20.5300°N) End(75.1500°E, 10.0000°N)
+2025-11-03 23:51:40,670 - ShipNavigation - INFO - Grid coordinates: Start (86, 81), End (41, 127)
+2025-11-03 23:51:40,671 - ShipNavigation - INFO - Starting pathfinding...
+2025-11-03 23:51:40,671 - ShipNavigation - INFO - Starting A* from (86, 81) to (41, 127)
+2025-11-03 23:51:40,672 - ShipNavigation - INFO - Profile - Cargo: False, Passenger: True
+2025-11-03 23:51:40,672 - ShipNavigation - INFO - Optimizations - Fuel: False, Speed: False, Comfort: True
+2025-11-03 23:52:05,112 - ShipNavigation - INFO - Success! Path has 73 waypoints
+2025-11-03 23:52:06,830 - ShipNavigation - INFO - Points reset
+2025-11-03 23:52:06,831 - ShipNavigation - INFO - Manual coordinates updated. Fetching new weather.
+2025-11-03 23:52:45,531 - ShipNavigation - INFO - Application closing
